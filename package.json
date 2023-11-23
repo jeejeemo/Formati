@@ -1,0 +1,23 @@
+{
+  "name": "formation2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js"
+  },
+  "author": "jmb",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.59.2"
+  },
+  "dependencies": {
+    "npm": "^9.6.1"
+  }
+}
