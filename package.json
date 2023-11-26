@@ -13,8 +13,11 @@
   "author": "jmb",
   "license": "ISC",
   "devDependencies": {
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
     "gulp": "^3.9.1",
     "gulp-sass": "^5.1.0",
+    "prettier": "^3.1.0",
     "sass": "^1.59.2"
   },
   "dependencies": {
